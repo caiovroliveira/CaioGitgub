@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+    color: white;
+    
+}
+#a1{
+    text-align: center;
+    text-decoration: underline;
+    color: orange
+}
+#r1{
+    text-align: center;
+    color: orange;
+}
+#r2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#r2:hover{
+    color:yellow;
+}
